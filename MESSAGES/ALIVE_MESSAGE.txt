@@ -1,1 +1,352 @@
-default
+228	Addalachchene
+ 188	Ahangama
+ 63	Akkaraipattu
+ 153	Akurana
+ 117	Akuressa
+ 294	Alawathugoda
+ 149	Alawwa
+ 84	Aluthgama
+ 35	Ambalangoda
+ 72	Ambalantota
+ 15	Ampara
+ 267	Anamaduwa
+ 205	Angunakolapalessa
+ 183	Ankumbura
+ 8	Anuradhapura
+ 220	Anuradhapura-Nuwarawewa
+ 253	Aralaganwila
+ 248	Aranayake
+ 107	Atchchuvely
+ 29	Avissawella
+ 347	Badalkubura
+ 87	Baddegama
+ 10	Badulla
+ 269	Badulla-Muthiyangana
+ 283	Baduraliya
+ 242	Bakamuna
+ 17	Balangoda
+ 154	Balapitiya
+ 310	Bambalapitiya
+ 121	Bandaragama
+ 37	Bandarawela
+ 234	Batapola
+ 208	Battaramulla
+ 75	Batticaloa
+ 113	Batticaloa Town
+ 244	Beliatta
+ 311	Beruwala
+ 11	Bibile
+ 172	Bingiriya
+ 354	Bogawanthalawa
+ 209	Boralanda
+ 348	Boralesgamuwa
+ 78	Borella
+ 320	Borella Town
+ 252	Bulathkohupitiya
+ 161	Bulathsinhala
+ 147	Buttala
+ 326	Capricon
+ 600	Card Center
+ 999	CCD
+ 108	Chankanai
+ 110	Chavakachcheri
+ 356	Cheddikulam
+ 227	Chenkalady
+ 24	Chilaw
+ 109	Chunnakam
+ 297	Dam Street
+ 138	Dambulla
+ 291	Dankotuwa
+ 206	Davulagala
+ 330	Dehiattakandiya
+ 293	Dehiowita
+ 19	Dehiwala
+ 337	Dehiwela (Galle Rd.)
+ 118	Delgoda
+ 257	Deltota
+ 71	Dematagoda
+ 132	Deniyaya
+ 180	Deraniyagala
+ 243	Devinuwara
+ 135	Dickwella
+ 151	Diyatalawa
+ 1	Duke Street
+ 85	Eheliyagoda
+ 73	Elpitiya
+ 45	Embilipitiya
+ 170	Eppawela
+ 123	Eravur
+ 114	Galagedera
+ 177	Galenbindunuwewa
+ 115	Galewela
+ 184	Galgamuwa
+ 185	Galigamuwa
+ 301	Galkiriyagama
+ 13	Galle Fort
+ 169	Galle Main Street
+ 179	Galnewa
+ 26	Gampaha
+ 18	Gampola
+ 307	Gandara
+ 332	Ganemulla
+ 97	Gangodawila
+ 302	Ginigathhena
+ 298	Ginthupitiya
+ 268	Girandurukotte
+ 92	Giriulla
+ 245	Godakawela
+ 238	Gonagaldeniya
+ 126	Grandpass
+ 203	Habarana
+ 130	Hakmana
+ 195	Haldummulla
+ 225	Haliela
+ 7	Hambantota
+ 22	Hanguranketha
+ 229	Hanwella
+ 216	Haputale
+ 140	Hasalaka
+ 341	Hataraliyadda
+ 186	Hatton
+ 204	Head Quarters
+ 221	Hemmathagama
+ 144	Hettipola
+ 136	Hikkaduwa
+ 6	Hingurakgoda
+ 49	Homagama
+ 41	Horana
+ 218	Horowpathana
+ 25	Hyde park Corner
+ 207	Ibbagamuwa
+ 247	Imaduwa
+ 300	Ingiriya
+ 4	International Division
+ 239	Ja Ela
+ 284	Jaffna Kannathiddy
+ 104	Jaffna Main Street
+ 30	Jaffna Stanley Road
+ 162	Jaffna University
+ 273	Kadawatha
+ 159	Kadugannawa
+ 196	Kaduwela
+ 51	Kahatagasdigiliya
+ 155	Kahawatte
+ 235	Kalawana
+ 339	Kallar
+ 23	Kalmunai
+ 125	Kalpitiya
+ 289	Kaltota
+ 39	Kalutara
+ 190	Kaluwanchikudy
+ 133	Kamburupitiya
+ 175	Kandana
+ 250	Kandeketiya
+ 3	Kandy
+ 357	Kandy City Centre
+ 31	Kankasanthurai
+ 90	Kantale
+ 223	Karaitivu
+ 343	Karapitiya
+ 168	Kataragama
+ 65	Kattankudy
+ 313	Katubedda
+ 89	Katugastota
+ 276	Katunayake
+ 105	Kayts
+ 150	Kebithigollawa
+ 27	Kegalle
+ 299	Kegalle Bazaar
+ 259	Kehelwatte
+ 42	Kekirawa
+ 55	Kelaniya
+ 240	Keppetipola
+ 327	Kesbewa
+ 48	Kilinochchi
+ 94	Kinniya
+ 237	Kiribathgoda
+ 266	Kiriella
+ 202	Kirindiwela
+ 319	Kirulapana
+ 281	Kobeigane
+ 142	Kochchikade
+ 329	Koggala
+ 342	Kokkaddicholai
+ 210	Kollupitiya Co-op House
+ 194	Kolonnawa
+ 260	Koslanda
+ 308	Kotahena
+ 98	Kotikawatte
+ 355	Kotiyakumbura
+ 328	Kottawa
+ 288	Kudawella
+ 28	Kuliyapitiya
+ 12	Kurunegala
+ 226	Kurunegala Maliyadeva
+ 334	Kurunegala-Ethugalpura
+ 263	Kuruwita
+ 309	Liberty Plaza
+ 331	Lucky Plaza
+ 251	Lunugala
+ 215	Madampe
+ 282	Maggona
+ 181	Maha – Oya
+ 217	Mahara
+ 306	Maharagama
+ 303	Mahawewa
+ 58	Mahiyangana
+ 52	Maho
+ 200	Majestic City
+ 137	Makandura
+ 191	Malwana
+ 312	Malwatta Road
+ 165	Mankulam
+ 44	Mannar
+ 236	Maradana
+ 100	Marandagahamula
+ 322	Marawila
+ 346	Maruthamunai
+ 178	Maskeliya
+ 2	Matale
+ 152	Matara Dharmapala Mawatha
+ 32	Matara Uyanwatta
+ 70	Mathugama
+ 69	Mawanella
+ 199	Mawathagama
+ 258	Medagama
+ 96	Medawachchiya
+ 231	Medirigiriya
+ 246	Meegalewa
+ 344	Melsiripura
+ 157	Menikhinna
+ 176	Mid City
+ 265	Middeniya
+ 21	Minuwangoda
+ 198	Mirigama
+ 68	Monaragala
+ 290	Moratumulla
+ 91	Moratuwa
+ 60	Morawaka
+ 336	Mount Lavinia
+ 46	Mudalige Mawatha
+ 20	Mulativu
+ 166	Murunkan
+ 95	Muttur
+ 214	Mutuwal
+ 119	Narahenpita
+ 82	Narammala
+ 83	Nattandiya
+ 146	Naula
+ 53	Nawalapitiya
+ 249	Neboda
+ 34	Negombo
+ 106	Nelliady
+ 124	Nikeweratiya
+ 127	Nildandahinna.
+ 296	Nintavur
+ 278	Nittambuwa
+ 192	Nivitigala
+ 171	Nochchiyagama
+ 174	Nugegoda
+ 335	Nugegoda City
+ 134	Nuwara Eliya
+ 340	Oddamavady
+ 275	Olcott Mawatha
+ 796	Overseas Customers Unit
+ 43	Padaviya
+ 349	Pallebedda
+ 241	Pallepola
+ 318	Pamunugama
+ 148	Panadura
+ 321	Panadura Town
+ 211	Panwila
+ 111	Paranthan
+ 116	Passara
+ 261	Pelawatte
+ 160	Pelmadulla
+ 57	Peradeniya
+ 139	Pettah
+ 256	Pilimatalawa
+ 103	Piliyandala
+ 359	Piliyandala City
+ 279	Pitakotte
+ 285	Point Pedro
+ 59	Polgahawela
+ 5	Polonnaruwa
+ 232	Polonnaruwa Town
+ 360	Polpithigama
+ 358	Poojapitiya
+ 280	Pothuhera
+ 164	Potuvil
+ 93	Pugoda
+ 352	Pulmudai
+ 173	Pundaluoya
+ 274	Pussellawa
+ 9	Puttalam
+ 33	Queens
+ 36	Ragala
+ 316	Ragama
+ 129	Rakwana
+ 101	Rambukkana
+ 345	Ranna
+ 80	Ratmalana
+ 88	Ratnapura
+ 317	Ratnapura Town
+ 128	Ratthota
+ 193	Ridigama
+ 353	Rikillagaskada
+ 81	Ruwanwella
+ 338	Sainthamaruthu
+ 64	Samanthurai
+ 277	Sea Street
+ 324	Seeduwa
+ 158	Senkadagala
+ 233	Serunuwara
+ 56	Sri Sangaraja Mawatha
+ 143	Suduwella
+ 264	Suriyawewa
+ 315	Talawa
+ 38	Talawakele
+ 272	Talgaswela
+ 219	Tambuttegama
+ 230	Tanamalwila
+ 67	Tangalle
+ 112	Teldeniya
+ 351	Thambala
+ 86	Thimbirigasyaya
+ 224	Thirukkovil
+ 270	Thulhiriya
+ 61	Tissamaharama
+ 167	Town Hall, Colombo
+ 66	Trincomalee
+ 255	Trincomalee Town
+ 292	Udapussellawa
+ 295	Udawalawe
+ 131	Udugama
+ 189	Uhana
+ 201	Ukuwela
+ 14	Union Place
+ 197	Uragasmanhandiya
+ 271	Urubokka
+ 156	Uva-Paranagama
+ 102	Valaichechenai
+ 40	Vavuniya
+ 141	Velvetiturai
+ 79	Veyangoda
+ 262	Wadduwa
+ 304	Walasgala
+ 120	Walasmulla
+ 325	Wanduramba
+ 54	Warakapola
+ 163	Wariyapola
+ 222	Wattala
+ 74	Wattegama
+ 350	Weeraketiya
+ 77	Weligama
+ 254	Welikanda
+ 16	Welimada
+ 145	Wellawatte
+ 62	Wellawaya
+ 76	Wennappuwa
+ 122	Wilgamuwa
+ 333	Yakkala
+ 47	Yatiyantota
